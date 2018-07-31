@@ -1,0 +1,50 @@
+[
+  {
+    "arrival": "Madrid",
+    "departure": "Barcelona",
+    "transportation": "Train",
+    "transportation_no": "78A",
+    "seat": "45B"
+  },
+  {
+    "arrival": "Barcelona",
+    "departure": "Gerona Airport",
+    "transportation": "Bus"
+  },
+  {
+    "arrival": "Stockholm",
+    "departure": "New York JFK",
+    "transportation": "Flight",
+    "transportation_no": "SK22",
+    "gate": "22",
+    "seat": "7B"
+  },
+  {
+    "arrival": "Delhi",
+    "departure": "Stockholm",
+    "transportation": "Flight",
+    "transportation_no": "QR455",
+    "gate": "20D",
+    "seat": "3A",
+    "baggage":"344"
+  },
+  {
+    "arrival": "Gerona Airport",
+    "departure": "Mumbai",
+    "transportation": "Flight",
+    "transportation_no": "EK201",
+    "gate": "4A",
+    "seat": "28C",
+    "baggage":"2"
+  },
+  {
+    "arrival": "Mumbai",
+    "departure": "Delhi",
+    "transportation": "Flight",
+    "transportation_no": "9W242",
+    "gate": "24A",
+    "seat": "22F",
+    "baggage":"4"
+  }
+]
+
